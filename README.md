@@ -12,6 +12,6 @@ Team member : Mohammed Aashik Sh
 
 Team member : Mohamed Azrath Rahuman S
 
-Salesforce :
+Salesforce : https://shanmuganathanengineeringc6-dev-ed.develop.lightning.force.com/lightning/o/Dashboard/home?queryScope=mru
 
 Demo Vedio Link:
